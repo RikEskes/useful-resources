@@ -10,6 +10,7 @@
 /dataSources.local.xml
 
 # All other IntelliJ files - usefulness might change in the future
+git_toolbox_prj.xml
 /misc.xml
 /modules.xml
 /useful-resources.iml
