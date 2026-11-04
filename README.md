@@ -5,18 +5,11 @@ something worth keeping.
 
 ## Contents
 
-- [Articles](resources/articles.md)
-- [Books](resources/books.md)
-- [Courses](resources/courses.md)
-- [Tools](resources/tools.md)
-- [Videos](resources/videos.md)
-
-## Format
-
-Each entry follows this pattern:
-
-- [Title](https://github.com/RikEskes/useful-resources) - One-line description of its contents.
-
-Book entries use:
-
-- *Book Title* by Author Name - Short note on what it covers.
+| Type       | Link                                               |
+|------------|----------------------------------------------------|
+| Articles   | [resources/articles.md](resources/articles.md)     |
+| Books      | [resources/books.md](resources/books.md)           |
+| Courses    | [resources/courses.md](resources/courses.md)       |
+| References | [resources/references.md](resources/references.md) |
+| Tools      | [resources/tools.md](resources/tools.md)           |
+| Videos     | [resources/videos.md](resources/videos.md)         |
