@@ -1,4 +1,0 @@
-config:
-  MD012: false
-  MD013:
-    line-length: 140
