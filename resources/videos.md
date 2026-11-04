@@ -20,4 +20,4 @@
   Subramaniam | Devoxx (2015)
 
 
-- [Reactive Programming](https://www.youtube.com/watch?v=weWSYIUdX6c) by Venkat Subramaniam | Devoxx (2016) 
+- [Reactive Programming](https://www.youtube.com/watch?v=weWSYIUdX6c) by Venkat Subramaniam | Devoxx (2016)
