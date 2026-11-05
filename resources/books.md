@@ -1,7 +1,6 @@
 # Books
 
 - _Refactoring: Improving the Design of Existing Code_ by Martin Fowler
-  Kleppmann and Chris Riccomini
 
 
 - _Design Patterns: Elements of Reusable Object-Oriented Software_ by Erich Gamma, Richard Helm, Ralph Johnson, and John
